@@ -9,6 +9,8 @@ An online store for phoenix files.
 This is a public server please ONLY SHARE THE SERVER LINK PAGE: "". DO NOT SHARE THIS PAGE OUTSIDE OF PHOENIX STAFF. ***THIS IS FOR MANAGEMENT ONLY!!!*** YOU HAVE BEEN WARNED.
 Changes only take place once you have clicked the green "Commit changes..."
 
+DO NOT DELETE THIS READ.MD AT ANY TIME.
+
 DO NOT AT ANY TIME USE THE TERMINAL TO MAKE CHANGES. ALWAYS USE THE GRAPHICAL USER INTERFACE (GUI).
 
 ## Best practices 
