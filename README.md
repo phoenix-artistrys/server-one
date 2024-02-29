@@ -22,7 +22,7 @@ Changes only take place once you have clicked the green "Commit changes..." butt
 **Please ty to upload only finished work and not WIP's as this creates a mess that is hard to clean up. Thank you!**
 **New versions of files should be labeled as per format: newfile1.ext => newfile2.ext (change the file name bu numbers to prevent the server from becoming confused).**
 
-## Create a download link
+# Create a download link
 
 Create an https download link by typing out a link like this:
 
@@ -32,7 +32,7 @@ Create an https download link by typing out a link like this:
 
 Each slash represents a folder. The name of the folder/files comes after.
 
-## How to download
+# How to download
 
 Right click on the file you want and click "download linked file".
 
