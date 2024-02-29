@@ -32,6 +32,10 @@ https://raw.githubusercontent.com/phoenix-artistys/server-one/main/foldername/fi
 
 Each slash represents a folder. The name of the folder/files comes after.
 
+## How to download
+
+Right click on the file you want and click "download linked file".
+
 # Create a folder (Use at your own risk)
 
 Click add file. Type a name after "server-one/" folowed by a "/". Click the green commit button.
