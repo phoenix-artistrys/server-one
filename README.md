@@ -6,7 +6,7 @@ An online store and archive for phoenix files.
 
 **!!!PLEASE READ THROUGH THIS COMPLETELY BEFORE DOING ANYTHING!!!**
 
-This is a public server please ONLY SHARE THE SERVER LINK PAGE: "". **DO NOT SHARE THIS PAGE OUTSIDE OF PHOENIX STAFF**. ***THIS IS FOR MANAGEMENT ONLY!!!*** YOU HAVE BEEN WARNED.
+This is a public server for Phoenix content ONLY **DO NOT SHARE THIS PAGE OUTSIDE OF PHOENIX STAFF**. ***THIS IS FOR MANAGEMENT ONLY!!!*** YOU HAVE BEEN WARNED.
 Changes only take place once you have clicked the green "Commit changes..." button.
 
 **DO NOT DELETE THIS READ.MD AT ANY TIME.**
