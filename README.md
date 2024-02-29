@@ -18,9 +18,11 @@ DO NOT AT ANY TIME USE THE TERMINAL TO MAKE CHANGES. ALWAYS USE THE GRAPHICAL US
 Please ty to upload only finished work and not WIP's as this creates a mess that is hard to clean up. Thank you!
 New versions of files should be labeled as per format: newfile1.ext => newfile2.ext (change the file name bu numbers to prevent the server from becoming confused.
 
-# Create a folder ***(Use at your own risk)***
+# Create a folder (Use at your own risk)
 
-Click add file. Type a name after "server-one/". Click the green commit button.
+Click add file. Type a name after "server-one/". Click the green commit button. Often times it's safter to just upload a folder from your computer.
+
+More info: https://berrasari.medium.com/creating-folders-on-github-a-step-by-step-guide-fb0b44b98561
 
 # Delete a folder/file (Use at your own risk)
 
