@@ -22,7 +22,7 @@ New versions of files should be labeled as per format: newfile1.ext => newfile2.
 
 # Create a folder (Use at your own risk)
 
-Click add file. Type a name after "server-one/". Click the green commit button. Often times it's safter to just upload a folder from your computer.
+Click add file. Type a name after "server-one/" folowed by a "/". Click the green commit button.
 
 More info: https://berrasari.medium.com/creating-folders-on-github-a-step-by-step-guide-fb0b44b98561
 
