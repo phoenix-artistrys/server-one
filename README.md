@@ -6,12 +6,14 @@ An online store for phoenix files.
 
 **!!!PLEASE READ THROUGH THIS COMPLETELY BEFORE DOING ANYTHING!!!**
 
-This is a public server please ONLY SHARE THE SERVER LINK PAGE: "". DO NOT SHARE THIS PAGE OUTSIDE OF PHOENIX STAFF. ***THIS IS FOR MANAGEMENT ONLY!!!*** YOU HAVE BEEN WARNED.
-Changes only take place once you have clicked the green "Commit changes..."
+This is a public server please ONLY SHARE THE SERVER LINK PAGE: "". **DO NOT SHARE THIS PAGE OUTSIDE OF PHOENIX STAFF**. ***THIS IS FOR MANAGEMENT ONLY!!!*** YOU HAVE BEEN WARNED.
+Changes only take place once you have clicked the green "Commit changes..." button.
 
-DO NOT DELETE THIS READ.MD AT ANY TIME.
+**DO NOT DELETE THIS READ.MD AT ANY TIME.**
 
-DO NOT AT ANY TIME USE THE TERMINAL TO MAKE CHANGES. ALWAYS USE THE GRAPHICAL USER INTERFACE (GUI).
+**DO NOT AT ANY TIME USE THE TERMINAL TO MAKE CHANGES. ALWAYS USE THE GRAPHICAL USER INTERFACE (GUI).**
+
+**PLEASE CONTACT NEWAVE TO CREATE FOLDERS OR IF YOU ARE UNSURE ABOUT ANYTHING.**
 
 ## Best practices 
 
@@ -34,7 +36,7 @@ For more info on how computer file systems work: https://www.codecademy.com/reso
 
 # Upload a File
 
-How to upload on the main page of the repo (server) click add file. There you can upload ***files up to 25mb***. Click commit. It will ask you to commit to the main branch choose this ONLY. ***DO NOT MAKE A NEW BRANCH***, this is developer tool for creating alt-versions and is best left to ***WEB STAFF ONLY***. Please contact Newave to create folders. Files cannot be efficently moved so make sure to upload it in the correct folder.
+How to upload on the main page of the repo (server) click add file. There you can upload ***files up to 25mb***. Click commit. It will ask you to commit to the main branch choose this ONLY. ***DO NOT MAKE A NEW BRANCH***, this is developer tool for creating alt-versions and is best left to ***WEB STAFF ONLY***. Files cannot be efficently moved so make sure to upload it in the correct folder.
 
 More info: https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository
 
