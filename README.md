@@ -26,9 +26,9 @@ Changes only take place once you have clicked the green "Commit changes..." butt
 
 Create an https download link by typing out a link like this:
 
-"https://raw.githubusercontent.com/phoenix-artistys/server-one/main/foldername/filename.extention"
+"https://<i></i>raw.githubusercontent.com/phoenix-artistys/server-one/main/foldername/filename.extention"
 
-**e.g: https://raw.githubusercontent.com/phoenix-artistys/server-one/main/music/song.wav**
+**e.g: https://<i></i>raw.githubusercontent.com/phoenix-artistys/server-one/main/music/song.wav**
 
 Each slash represents a folder. The name of the folder/files comes after.
 
