@@ -32,6 +32,8 @@ Create an https download link by typing out a link like this:
 
 Each slash represents a folder. The name of the folder/files comes after.
 
+For more info on how computer file systems work: https://www.codecademy.com/resources/docs/general/file-paths#
+
 # How to download
 
 Right click on the file you want and click "download linked file".
@@ -54,13 +56,19 @@ How to upload on the main page of the repo (server) click add file. There you ca
 
 More info: https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository
 
+For more info on how computer file systems work: https://www.codecademy.com/resources/docs/general/file-paths#
+
 # Move a file
 
 https://docs.github.com/en/repositories/working-with-files/managing-files/moving-a-file-to-a-new-location
 
+For more info on how computer file systems work: https://www.codecademy.com/resources/docs/general/file-paths#
+
 # Rename file
 
 https://docs.github.com/en/repositories/working-with-files/managing-files/renaming-a-file
+
+For more info on how computer file systems work: https://www.codecademy.com/resources/docs/general/file-paths#
 
 # Edit a code/read.md file (In most cases delete and re-upload is safer)
 
