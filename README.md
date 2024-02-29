@@ -1,6 +1,6 @@
-# Phoenix Server One
+# Phoenix Server One (For publicly downloadable content)
 
-An online store and archive for phoenix files.
+An online store and archive for publicly downloadable phoenix files.
 
 # !!!IMPORTANT!!!
 
