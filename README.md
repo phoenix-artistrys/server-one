@@ -20,7 +20,7 @@ Changes only take place once you have clicked the green "Commit changes..." butt
 ***Please zip folders to make them easiar to download***. ***If the zip file is too big please upload the file in several seperate zip files***. Folders are to give names to groups such as: Music samples, artwork, full songs. ***Please do not use folders when none are required***.
 
 **Please ty to upload only finished work and not WIP's as this creates a mess that is hard to clean up. Thank you!**
-**New versions of files should be labeled as per format: newfile1.ext => newfile2.ext (change the file name bu numbers to prevent the server from becoming confused).**
+**New versions of files should be labeled as per format: newfile1.ext => newfile2.ext (change the file name with numbers to prevent the server from becoming confused).**
 
 # Create a download link
 
